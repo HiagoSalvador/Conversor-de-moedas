@@ -1,6 +1,7 @@
 <h1><b>Conversor de moedas</b></h1>
 <br>
-<h2 class = "h2"> Esse foi o projeto que eu realizei com ajuda do Figman,<br> para informar os valores convertidos real para Dólar, euro, bitcoin e libra. </h2>
+<h2> Decidi realizar mais um projeto que converte o real em dólar, euro, bitcoin e libra, com a ajuda do Figman.
+O conversor permite converter valores de Real brasileiro para outras moedas selecionadas. </h2>
 <br>
 
 <h2> Tecnologias Utilizadas:</h2>
