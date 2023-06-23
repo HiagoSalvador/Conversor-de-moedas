@@ -1,8 +1,10 @@
-<h1>Conversor de moedas</h1>
+<h1><b>Conversor de moedas</b></h1>
+<br>
 <h2 class = "h2"> Esse foi o projeto que eu realizei com ajuda do Figman,<br> para informar os valores convertidos real para Dólar, euro, bitcoin e libra. </h2>
+<br>
 
 <h2> Tecnologias Utilizadas:</h2>
-<br>
+
 
 - HTML
 - CSS
